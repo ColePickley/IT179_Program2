@@ -1,1 +1,1 @@
-See Program2.docx for program description
+Program #2 for IT 179
